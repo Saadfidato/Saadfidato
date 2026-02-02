@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadfidato" alt="saadfidato" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **saadbinkamal08@gmail.com**
 
 - 📄 CV https://saadfidato.github.io/assets/cv.pdf
