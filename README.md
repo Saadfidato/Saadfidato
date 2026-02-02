@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **saadbinkamal08@gmail.com**
 
-- 📄 Know about my experiences https://saadfidato.github.io/assets/cv.pdf
+- 📄 CV https://saadfidato.github.io/assets/cv.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
