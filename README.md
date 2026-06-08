@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Saad Bin Kamal</h1>
-<h3 align="center">A passionate Competitive Programmer from Bangladesh</h3>
+<h3 align="center">An educator and Competitive Programming enthusiast from Bangladesh</h3>
 <img align="right" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadfidato&label=Profile%20views&color=0e75b6&style=flat" alt="saadfidato" /> </p>
