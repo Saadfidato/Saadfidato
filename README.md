@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **saadbinkamal08@gmail.com**
 
-- 📄 <a href="https://Saadfidato.github.io/assets/cv.pdf" target="_blank">CV</a>
+- 📄 <a href="assets/cv.pdf" target="_blank">CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
